@@ -1444,9 +1444,9 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-  color:;
+  color: #332D2D;
   padding: 25px 0;
-  background:  #332D2D ;
+  background:  #fff ;
 }
 
 footer .copyright {
